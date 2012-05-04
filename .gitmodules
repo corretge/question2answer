@@ -1,0 +1,6 @@
+[submodule "qa-plugin/q2a-wiki"]
+	path = qa-plugin/q2a-wiki
+	url = git://github.com/NoahY/q2a-wiki.git
+[submodule "qa-plugin/q2a-share"]
+	path = qa-plugin/q2a-share
+	url = git://github.com/NoahY/q2a-share.git
